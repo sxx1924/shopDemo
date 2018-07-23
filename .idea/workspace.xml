@@ -360,15 +360,15 @@
       <option name="presentableId" value="Default" />
       <updated>1532356694952</updated>
       <workItem from="1532356699300" duration="4093000" />
-      <workItem from="1532360825349" duration="1543000" />
+      <workItem from="1532360825349" duration="1834000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5636000" />
+    <option name="totallyTimeSpent" value="5927000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="347" y="35" width="1400" height="1000" extended-state="1" />
+    <frame x="347" y="35" width="1400" height="1000" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
